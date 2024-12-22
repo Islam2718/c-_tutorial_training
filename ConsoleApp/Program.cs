@@ -1,0 +1,19 @@
+﻿// variables and data types
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        // 
+        string name = "Islam Hossain";
+        int age = 33;
+        bool isFullTime = true;
+
+        Console.WriteLine("My Name is: " + name);
+        Console.WriteLine("My Age is: " + age);
+        Console.WriteLine("I am a full-stack developer: " + isFullTime);
+    }
+}
+

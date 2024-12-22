@@ -1,0 +1,40 @@
+
+creating console app name as ConsoleApp:  
+----------------------------------------------------------------
+notes: -o for under a folder and the name of this folder is ConsoleApp
+cmd: dotnet new console -o ConsoleApp
+
+
+run program: 
+----------------------------------------------------------------
+cmd: dotnet run 
+cmd: dotnet watch
+
+[007]
+notes: Console.WriteLine vs Console.Write 
+- WriteLine print a line and take a line break. 
+- Write print without line break.
+- Write for (into double qoute) 
+    [0] new line = \n 
+    [1] tab = \t 
+    [2] "islam" = "\"islam"\"
+
+[comments]
+
+
+
+DataType: 
+-----------------------------------------
+int > 112, -112
+double > 12.2
+string > "islam"
+char > 'a'  //but not "a" or 'ab'
+bool > true/false 
+
+Variables: a container that can store data. 
+--------------------------------------------
+- can use digits, letters & underscore (_). 
+- can't start with digits.
+- sapce not allowed. example my var (myVar)
+- can't use keywords. example: public, static etc. 
+- 

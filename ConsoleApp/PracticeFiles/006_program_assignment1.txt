@@ -1,0 +1,14 @@
+// // See https://aka.ms/new-console-template for more information
+// Console.WriteLine("My First C# Program with Console App");
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Assignment 001");
+        Console.WriteLine("My Name is: Islam Hossain");
+        Console.WriteLine("My Age is:" + 33);
+        Console.WriteLine("I am a full-stack developer");
+    }
+}

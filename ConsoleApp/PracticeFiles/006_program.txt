@@ -1,0 +1,21 @@
+// notes: Console.WriteLine vs Console.Write 
+// - WriteLine print a line and take a line break. 
+// - Write print without line break.
+// - Write for (into double qoute) 
+//     [0] new line = \n 
+//     [1] tab = \t 
+//     [2] "islam" = "\"islam"\"
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("My Name with New Line: \nIslam Hossain");
+        Console.WriteLine("My Name with Tab: \tIslam Hossain");
+        Console.WriteLine("My Name with Backslash: \\Islam Hossain");
+        Console.WriteLine("My Name with Quotes: \"Islam Hossain\"");
+    }
+}
+
