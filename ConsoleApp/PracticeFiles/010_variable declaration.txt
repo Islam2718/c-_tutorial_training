@@ -1,0 +1,26 @@
+// variable declaration
+/*
+    - descriptive
+    - meaningful
+    - camelCase 
+    - avoid single character
+    - consistence
+*/
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        // 
+        string personName = "Islam Hossain";
+        int personAge = 33;
+        bool isFullTime = true;
+
+        Console.WriteLine("My Name is: " + personName);
+        Console.WriteLine("My Age is: " + personAge);
+        Console.WriteLine("I am a full-stack developer: " + isFullTime);
+    }
+}
+

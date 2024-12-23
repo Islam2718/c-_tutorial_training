@@ -1,4 +1,4 @@
-﻿// type casting..
+// type casting..
 /*
 chanding a value from one data type to another is called type casting.
     - implicit type casting : 
@@ -8,7 +8,7 @@ chanding a value from one data type to another is called type casting.
     - explicit type casting : manually done
         - larger data type to smaller data type
         - double > float > long > int
-    - convert using method
+    - convert using method [parse, Tryparse, ToXXX]
         - Convert.ToXXX(value)
 */
 using System;
@@ -34,3 +34,4 @@ class Program
         Console.WriteLine(Convert.ToInt32(Convert.ToString(number5)));
     }
 }
+

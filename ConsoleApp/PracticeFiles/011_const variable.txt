@@ -1,0 +1,32 @@
+// constant variable and multiple variables declaration
+
+using System;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        // 
+        const string personName = "Islam Hossain";
+        int personAge = 33;
+        const bool isStudent = false;
+        string presentProfession = "Full-Stack Developer";
+
+        Console.WriteLine("In 2025: ");
+        Console.WriteLine("Name: " + personName);
+        Console.WriteLine("Age: " + personAge);
+        Console.WriteLine("Is Student: " + isStudent);
+        Console.WriteLine("Present Profession: " + presentProfession);
+
+        Console.WriteLine("In 2013: ");
+        // personName = "Islam Hossain"; // not possible : for constant type 
+        Console.WriteLine("Name: " + personName);
+        personAge = 23;
+        Console.WriteLine("Age: " + personAge);
+        Console.WriteLine("Is Student: " + isStudent);
+        Console.WriteLine("Present Profession: " + presentProfession);
+
+
+    }
+}
+

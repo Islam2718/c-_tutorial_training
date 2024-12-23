@@ -37,4 +37,9 @@ Variables: a container that can store data.
 - can't start with digits.
 - sapce not allowed. example my var (myVar)
 - can't use keywords. example: public, static etc. 
-- 
+
+Variable dynamic initialization: if type and initialization at a time then its called variable dynamic initialization.
+
+
+Primtive DataType: 
+Exception handling: 
