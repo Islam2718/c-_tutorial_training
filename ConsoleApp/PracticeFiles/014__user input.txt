@@ -1,0 +1,23 @@
+// input from user. 
+/*
+    Console.readLine();
+*/
+
+using System;
+using System.Runtime.CompilerServices;
+
+class Program
+{
+    public static void Main(string[] args)
+    {
+        // 
+        Console.WriteLine("Insert Person Name: ");
+        string? personName = Console.ReadLine();
+
+        Console.WriteLine("Insert Person Age: ");
+        string? personAge = Console.ReadLine();
+
+        Console.WriteLine("The Person Name is: " + personName);
+        Console.WriteLine("The Person Age is: " + personAge);
+    }
+}

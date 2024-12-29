@@ -1,4 +1,4 @@
-﻿// mathematical operations
+// assign ment on input from user. 
 /*
     Console.readLine();
 */
