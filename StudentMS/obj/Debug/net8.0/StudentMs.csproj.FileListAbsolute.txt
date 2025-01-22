@@ -1,0 +1,15 @@
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\bin\Debug\net8.0\StudentMs.exe
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\bin\Debug\net8.0\StudentMs.deps.json
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\bin\Debug\net8.0\StudentMs.runtimeconfig.json
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\bin\Debug\net8.0\StudentMs.dll
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\bin\Debug\net8.0\StudentMs.pdb
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.GeneratedMSBuildEditorConfig.editorconfig
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.AssemblyInfoInputs.cache
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.AssemblyInfo.cs
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.csproj.CoreCompileInputs.cache
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.sourcelink.json
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.dll
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\refint\StudentMs.dll
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.pdb
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\StudentMs.genruntimeconfig.cache
+H:\Learning Libraries\c-sharp-tutorial-training\StudentMs\obj\Debug\net8.0\ref\StudentMs.dll
