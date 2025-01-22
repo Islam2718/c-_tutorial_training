@@ -1,0 +1,20 @@
+// OOP theory 
+
+1. Class defination:
+Class is a blueprint for creating objects. It defines the properties and behavior of the object. 
+
+2. Object defination: 
+Object is an instance of a class. It has its own state and behavior.
+
+a) Encapsulations: 
+The process of combining data and functions into a single unit is called encapsulation.
+
+b) Inheritance:
+The process of creating a new class from an existing class is called inheritance.
+
+c) Abstraction: 
+The process of hiding the internal details and showing only the essential features is called abstraction.
+
+d) Polymorphism: 
+The process of having many forms is called polymorphism.
+

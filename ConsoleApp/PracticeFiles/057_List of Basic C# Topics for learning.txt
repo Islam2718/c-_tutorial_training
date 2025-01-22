@@ -1,0 +1,9 @@
+Basics: 
+1. Introduction C#
+2. Environment Setup. 
+3. First C# program (A1)
+4. Comments & Escape Sequences. 
+5. Variable & Data Types. 
+6. Constants, Variable naming conventions. 
+7. Type casting - implicit & explicit. 
+8. User input & string concatenation. 

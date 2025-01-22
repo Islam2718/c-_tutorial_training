@@ -1,4 +1,4 @@
-﻿// area calculator.. of traingle.
+// area calculator.. of traingle.
 /*
     Console.readLine();
 */
